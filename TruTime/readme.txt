@@ -62,7 +62,7 @@ pom.xml contains the dependencies required by the project
  
 testng.xml file is for running the test cases.
 
-----------------------------
+-----------------------------
 By:
 KUNAL KUMAR
-----------------------------
+-----------------------------
